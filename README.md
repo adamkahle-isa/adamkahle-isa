@@ -10,4 +10,4 @@ Outside of class, I have been reading about human-centered design, creativity, a
 
 I would love to start a conversation: kahlear@miamioh.edu
 
-Technologies: Python, R, SQL, Spark, PowerBI(DAX), Excel, ArcGIS, Gurobi
+Technologies: Python, R, SQL, Spark, PowerBI(DAX), Excel(Solver), ArcGIS
